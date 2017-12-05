@@ -9,7 +9,9 @@ alphabatized list of names.
 
 <b>There are 5 options:</b>
 0)Search Directory
+
 1)List Directory 
+
 2)Add a user to the Directory
 
 -Must input both first and last name
