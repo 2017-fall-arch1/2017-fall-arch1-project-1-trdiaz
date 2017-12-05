@@ -8,12 +8,13 @@ Upon each selection, the program will automatically print an
 alphabatized list of names.
 
 <b>There are 5 options:</b>
-
-1)List Directory 2)Add a user to the Directory
+0)Search Directory
+1)List Directory 
+2)Add a user to the Directory
 
 -Must input both first and last name
 
-3)Remove a user from the Directory -didnt work
+3)Remove a user from the Directory 
 
 4)Update the .txt file with updated content, or will create a new one.
 -Simply select 4, and it will append the document or create new one if
