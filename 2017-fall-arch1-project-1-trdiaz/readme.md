@@ -1,3 +1,4 @@
+<h1>ACME Directory</h1>
 This program Works by Opening a text file that contains a directory of
 first and last names. ex., Thomas Diaz and reads into a Binary Search
 Tree.
@@ -6,7 +7,7 @@ Each name is inserted into a node of the Tree and sorted accordingly.
 Upon each selection, the program will automatically print an
 alphabatized list of names.
 
-There are 5 options
+<b>There are 5 options:</b>
 
 1)List Directory 2)Add a user to the Directory
 
